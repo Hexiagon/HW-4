@@ -17,3 +17,7 @@ h2{
 label{
     font-weight: bold;
 }
+#inputbox{
+    border: 2px grey dashed;
+    width: 18%;
+}
