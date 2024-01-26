@@ -1,3 +1,19 @@
 #calories{
     font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(230,230,230);
+}
+h2{
+    color:rgb(100,100,100);
+}
+#foodname{
+    color:blue;
+}
+#numbercalories{
+    color:red;
+}
+#totalcalories{
+    color:purple;
+}
+label{
+    font-weight: bold;
 }
